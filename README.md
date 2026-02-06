@@ -14,8 +14,8 @@ An intensive overview of cloud infrastructure and their role in data science. To
 
 - [**Lab 1**](labs/lab01/README.md) - Reference Architecture 1 (due 1/23/2026)
 - [**Lab 2**](labs/lab02/README.md) - Creating & Managing EC2 Instances (due 1/30/2026)
-- [**Lab 3**](labs/lab03/README.md) - EC2 Instance Management and IAM Roles
-- Lab 4
+- [**Lab 3**](labs/lab03/README.md) - EC2 Instance Management and IAM Roles (due 2/6/2026)
+- [**Lab 4**](labs/lab04/README.md) - Infrastructure as Code with Python and `boto3` (due 2/13/2025)
 - Lab 5
 - Lab 6
 - Lab 7
