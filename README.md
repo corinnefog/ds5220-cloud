@@ -27,7 +27,7 @@ An intensive overview of cloud infrastructure and their role in data science. To
 
 To be completed by end of semester:
 - [**Grad Lab 11**](labs/glab11/README.md) - Run A Hypervisor
-- Lab 12
+- [**Grad Lab 12**](labs/glab12/README.md) - Work with a data lake in S3
 - Lab 13
 - Lab 14
 - Lab 15
